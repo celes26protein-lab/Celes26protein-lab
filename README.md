@@ -37,11 +37,7 @@
 <br/><br/>
 
 <a href="https://github.com/celes26protein-lab">
-  <img
-    width="55%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=celes26protein-lab&layout=donut&langs_count=6&custom_title=LANGUAGE%20MATRIX&theme=transparent&hide_border=true&bg_color=03000A&title_color=B56CFF&text_color=E6D9FF&card_width=420"
-    alt="Language Matrix"
-  />
+<img width="55%" src="https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/language_matrix.svg" alt="Language Matrix"/>
 </a>
 
 <br/><br/>
