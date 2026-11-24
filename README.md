@@ -32,10 +32,10 @@
 </a>
 
 
-<a href="https://github.com/Simulation-bio-23">
+<a href="https://github.com/celes26protein-lab">
   <img
     width="55%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simulation-bio-23&layout=compact&langs_count=6&custom_title=TECHNICAL%20STACK&theme=transparent&hide_border=false&border_color=164E63&bg_color=030712&title_color=67E8F9&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=celes26protein-lab&layout=compact&langs_count=6&custom_title=TECHNICAL%20STACK&theme=transparent&hide_border=false&border_color=164E63&bg_color=030712&title_color=67E8F9&text_color=C9D1D9"
     alt="Technical Stack"
   />
 </a>
