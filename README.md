@@ -6,8 +6,6 @@
 
 </div>
 
-> Protein designer, protein engineering, MD simulation, virology
-
 ---
 
 ### About Me
