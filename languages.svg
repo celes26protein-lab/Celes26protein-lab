@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="390" viewBox="0 0 600 390">
+  <defs>
+    <linearGradient id="crystal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a5f3fc" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7c83ff" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="600" height="390" rx="16" fill="#030712"/>
+  <text x="24" y="36" fill="#63E6FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Most Used Languages</text>
+
+  <!-- Python -->
+  <g transform="translate(24,60)">
+    <rect width="552" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#63E6FF" stroke-opacity="0.3"/>
+    <rect width="480" height="40" rx="20" fill="url(#crystal)" stroke="#a5f3fc" stroke-opacity="0.8" filter="url(#glow)"/>
+    <rect width="480" height="20" rx="20" fill="url(#gloss)"/>
+    <text x="18" y="25" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Python</text>
+    <text x="464" y="25" text-anchor="end" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">40%</text>
+  </g>
+
+  <!-- R -->
+  <g transform="translate(24,112)">
+    <rect width="552" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#63E6FF" stroke-opacity="0.3"/>
+    <rect width="240" height="40" rx="20" fill="url(#crystal)" stroke="#a5f3fc" stroke-opacity="0.8" filter="url(#glow)"/>
+    <rect width="240" height="20" rx="20" fill="url(#gloss)"/>
+    <text x="18" y="25" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">R</text>
+    <text x="224" y="25" text-anchor="end" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">20%</text>
+  </g>
+
+  <!-- JavaScript -->
+  <g transform="translate(24,164)">
+    <rect width="552" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#63E6FF" stroke-opacity="0.3"/>
+    <rect width="180" height="40" rx="20" fill="url(#crystal)" stroke="#a5f3fc" stroke-opacity="0.8" filter="url(#glow)"/>
+    <rect width="180" height="20" rx="20" fill="url(#gloss)"/>
+    <text x="18" y="25" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">JavaScript</text>
+    <text x="164" y="25" text-anchor="end" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">15%</text>
+  </g>
+
+  <!-- Go -->
+  <g transform="translate(24,216)">
+    <rect width="552" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#63E6FF" stroke-opacity="0.3"/>
+    <rect width="120" height="40" rx="20" fill="url(#crystal)" stroke="#a5f3fc" stroke-opacity="0.8" filter="url(#glow)"/>
+    <rect width="120" height="20" rx="20" fill="url(#gloss)"/>
+    <text x="18" y="25" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Go</text>
+    <text x="104" y="25" text-anchor="end" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">10%</text>
+  </g>
+
+  <!-- Ruby -->
+  <g transform="translate(24,268)">
+    <rect width="552" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#63E6FF" stroke-opacity="0.3"/>
+    <rect width="96" height="40" rx="20" fill="url(#crystal)" stroke="#a5f3fc" stroke-opacity="0.8" filter="url(#glow)"/>
+    <rect width="96" height="20" rx="20" fill="url(#gloss)"/>
+    <text x="18" y="25" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Ruby</text>
+    <text x="80" y="25" text-anchor="end" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">8%</text>
+  </g>
+
+  <!-- HTML -->
+  <g transform="translate(24,320)">
+    <rect width="552" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#63E6FF" stroke-opacity="0.3"/>
+    <rect width="84" height="40" rx="20" fill="url(#crystal)" stroke="#a5f3fc" stroke-opacity="0.8" filter="url(#glow)"/>
+    <rect width="84" height="20" rx="20" fill="url(#gloss)"/>
+    <text x="18" y="25" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">HTML</text>
+    <text x="68" y="25" text-anchor="end" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">7%</text>
+  </g>
+</svg>
