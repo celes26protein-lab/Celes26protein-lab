@@ -37,7 +37,7 @@
 <br/><br/>
 
 <a href="https://github.com/celes26protein-lab">
-<img width="55%" src="https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/language_matrix.svg" alt="Language Matrix"/>
+<img width="55%" src="https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/languages.svg" alt="Language Matrix"/>
 </a>
 
 <br/><br/>
