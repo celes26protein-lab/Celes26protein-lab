@@ -37,5 +37,5 @@
 <br/><br/>
 
 <a href="https://github.com/celes26protein-lab">
-<img width="55%" src="https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/language.svg" alt="Most used programming languages"/>
+<img width="55%" src="https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/languages.svg" alt="Most used programming languages"/>
 </a>
