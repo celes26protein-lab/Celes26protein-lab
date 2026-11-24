@@ -37,3 +37,7 @@
 </a>
 
 <br/><br/>
+
+<a href="https://github.com/celes26protein-lab">
+<img width="100%" src="https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/dist/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+</a>
