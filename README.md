@@ -36,8 +36,12 @@
 
 <br/><br/>
 
-<a href="https://github.com/celes26protein-lab">
-<img width="55%" src="https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/languages_tiles.svg" alt="Most used programming languages"/>
+<a href="https://github.com/Simulation-bio-23">
+  <img
+    width="55%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simulation-bio-23&layout=donut&langs_count=6&custom_title=LANGUAGE%20MATRIX&theme=transparent&hide_border=true&bg_color=03000A&title_color=B56CFF&text_color=E6D9FF&card_width=420"
+    alt="Language Matrix"
+  />
 </a>
 
 <br/><br/>
