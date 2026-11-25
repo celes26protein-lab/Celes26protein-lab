@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/header_animated.svg)
+![header](https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/header.jpg)
 
 ![ticker](https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/ticker.svg)
 
