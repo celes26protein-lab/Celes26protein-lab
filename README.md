@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/header.jpg)
+<img width="627" src="https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/header.jpg" alt="Quantum computing and human body illustration"/>
 
 ![ticker](https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/ticker.svg)
 
