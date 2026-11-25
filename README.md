@@ -1,7 +1,8 @@
 <div align="center">
 
-<img width="333" src="https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/header.jpg" alt="Quantum computing and human body illustration"/>
+<img width="100%" src="https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/header_wide.jpg" alt="Quantum computing and human body illustration"/>
 
+</div>
 ![ticker](https://raw.githubusercontent.com/celes26protein-lab/celes26protein-lab/main/ticker.svg)
 
 </div>
